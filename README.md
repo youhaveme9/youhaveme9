@@ -33,6 +33,6 @@
   
 <p>
   
-![Top Langs](https://github-readme-stats-liard-three.vercel.app/api/top-langs/?username=roshaen&hide=TeX,QMake&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshaen&hide=TeX,QMake&layout=compact)
 
 </p>

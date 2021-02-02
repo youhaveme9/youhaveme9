@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/roshaen_rc" target="blank"><img src="https://img.shields.io/twitter/follow/roshaen_rc?logo=twitter&style=for-the-badge" alt="roshaen_rc" /></a> </p>
 
-- 🔭 I’m currently working on **an android music player app**
 
 - 🌱 I’m currently learning **C++, machine learning and javascript**
 
@@ -15,7 +14,7 @@
 
 - 📫 How to reach me **roshaen09@gmail.com**
 
-- ⚡ Fun fact **I like to work at night🌇**
+- ⚡ Fun fact **Also learning Fl studios**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 <h3 align="center">I'm a Student, Developer and a learner...💻</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshaen&label=Profile%20views&color=0e75b6&style=flat" alt="roshaen" /> </p>
+
 <p align="left"> <a href="https://twitter.com/roshaen_rc" target="blank"><img src="https://img.shields.io/twitter/follow/roshaen_rc?logo=twitter&style=for-the-badge" alt="roshaen_rc" /></a> </p>
 
-
-- 🌱 I’m currently learning **C++, machine learning and javascript**
+- 🌱 I’m currently learning **machine learning and javascript**
 
 - 👯 I’m looking to collaborate with **ML enthusiast**
 
@@ -14,11 +15,13 @@
 
 - 📫 How to reach me **roshaen09@gmail.com**
 
-- ⚡ Fun fact **Also learning Fl studios**
+- ⚡ Fun fact **I like to work at night🌇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/roshaen09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="roshaen09" height="30" width="40" /></a>
 <a href="https://twitter.com/roshaen_rc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="roshaen_rc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roshan-kumar-176918202" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roshan-kumar-176918202" height="30" width="40" /></a>
 <a href="https://instagram.com/roshaen_uiux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="roshaen_uiux" height="30" width="40" /></a>
 </p>
 

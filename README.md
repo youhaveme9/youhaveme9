@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
-<h3 align="center">I'm a Student, Developer and a learner...💻</h3>
+<h3 align="center">I'm a Student and a self-taught developer...💻</h3>
 
 
 <p align="left"> <a href="https://twitter.com/roshaen_rc" target="blank"><img src="https://img.shields.io/twitter/follow/roshaen_rc?logo=twitter&style=for-the-badge" alt="roshaen_rc" /></a> </p>
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **roshaen09@gmail.com**
 
-- ⚡ Fun fact **I like to work at night🌇**
+- ⚡ Fun fact **Intrested in making edm🎸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -28,3 +28,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshaen&show_icons=true&locale=en&layout=compact" alt="roshaen" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshaen&show_icons=true&locale=en" alt="roshaen" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Roshaen&" alt="Roshaen" /></p>
+

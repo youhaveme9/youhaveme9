@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate with **web developers**
 
-- 🤝 I’m looking for help with **machine learning algorithms**
+- 🤝 I’m looking for help with **react js**
 
 - 💬 Ask me about **Python**
 

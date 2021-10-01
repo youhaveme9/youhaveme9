@@ -15,4 +15,4 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshaen&show_icons=true&locale=en&theme=radical" alt="roshaen" /></p>
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshaen&show_icons=true&theme=radical)

@@ -12,7 +12,3 @@
 - 📫 How to reach me **roshan0902@pm.me**
 
 - ⚡ Fun fact **I love EDMs 🎶**
-
-
-
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roshaen&show_icons=true&theme=radical)

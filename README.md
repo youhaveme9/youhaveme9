@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 <h3 align="center">I'm a student and a learner...💻</h3>
 
-- 🌱 I’m currently learning **flutter and DSA**
+- 🌱 Currently learning **machine learning**
 
-- 👯 I’m looking to collaborate with **flutter app developers**
-
-- 🤝 I’m looking for help with **DSA**
+- 🤝 Building **clueless**
 
 - 💬 Ask me about **Python and javascript**
 

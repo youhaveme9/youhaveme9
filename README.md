@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
 <h3 align="center">I'm a student and a learner...💻</h3>
 
-- 🌱 Currently learning **machine learning**
+- 🌱 Currently learning **Flutter and InfoSec**
 
 - 🤝 Building **clueless**
 

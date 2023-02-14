@@ -1,6 +1,6 @@
 <img src="https://github.com/Roshaen/Roshaen/blob/main/img.png" alt="Girl in a jacket">
 
-<h1 align="center">Hi 👋, I'm Roshan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Roshan</h1>
 <h3 align="center">Cybersec and Linux kernel enthusiast</h3>
 
 
